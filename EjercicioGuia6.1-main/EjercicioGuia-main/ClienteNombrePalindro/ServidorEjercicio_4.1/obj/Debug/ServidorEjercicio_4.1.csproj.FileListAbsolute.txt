@@ -1,0 +1,10 @@
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\bin\Debug\ServidorEjercicio_4.1.exe.config
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\bin\Debug\ServidorEjercicio_4.1.exe
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\bin\Debug\ServidorEjercicio_4.1.pdb
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\obj\Debug\ServidorEjercicio_4.1.csproj.AssemblyReference.cache
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\obj\Debug\ServidorEjercicio_4._1.Form1.resources
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\obj\Debug\ServidorEjercicio_4._1.Properties.Resources.resources
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\obj\Debug\ServidorEjercicio_4.1.csproj.GenerateResource.cache
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\obj\Debug\ServidorEjercicio_4.1.csproj.CoreCompileInputs.cache
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\obj\Debug\ServidorEjercicio_4.1.exe
+C:\Users\prord\OneDrive\Escritorio\ServidorEjercicio_4.1\ServidorEjercicio_4.1\obj\Debug\ServidorEjercicio_4.1.pdb

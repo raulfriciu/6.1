@@ -1,0 +1,10 @@
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\bin\Debug\ClienteTemperatura.exe.config
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\bin\Debug\ClienteTemperatura.exe
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\bin\Debug\ClienteTemperatura.pdb
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\obj\Debug\ClienteTemperatura.csproj.AssemblyReference.cache
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\obj\Debug\ClienteTemperatura.Form1.resources
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\obj\Debug\ClienteTemperatura.Properties.Resources.resources
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\obj\Debug\ClienteTemperatura.csproj.GenerateResource.cache
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\obj\Debug\ClienteTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\obj\Debug\ClienteTemperatura.exe
+C:\Users\prord\source\repos\ClienteTemperatura\ClienteTemperatura\obj\Debug\ClienteTemperatura.pdb
